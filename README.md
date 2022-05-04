@@ -1,2 +1,3 @@
-# BAEKJOON
-백준 문제 풀이 1000hyehyang
+### ✏️ BAEKJOON
+🌳Solving Problems🌳
+These codes were mainly written in Java.
