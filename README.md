@@ -1,2 +1,4 @@
-# BAEKJOON
-백준 문제 풀이 1000hyehyang
+### BAEKJOON
+🌳 Solving Problems / From sprouts to trees 🌳
+
+✏️ These codes are primarily written in Java
