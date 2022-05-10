@@ -10,7 +10,7 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
-        System.out.printf("D");
+        
         int T = Integer.parseInt(br.readLine());
         for(int i=0; i<T; i++) {
         	st = new StringTokenizer(br.readLine());
